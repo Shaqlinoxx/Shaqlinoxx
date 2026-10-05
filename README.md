@@ -15,9 +15,9 @@
 ---
 ## 🔧 Projects
 
-| Project | Description |
-|---|---|
-| 🖥️ Active directory lab |Created and explored Active directory in window server 2022|
+<a href="https://github.com/YOUR_USERNAME/networking-lab">
+  🌐 Active Directory
+</a>
 
 
 
