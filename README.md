@@ -15,7 +15,7 @@
 ---
 ## 🔧 Projects
 
-<a href="https://https://github.com/Shaqlinoxx/Window-Server-Actve-directory-">
+<a href="https://github.com/Shaqlinoxx/Window-Server-Actve-directory-">
   <img src="https://img.shields.io/badge/Active Directory Lab -0078D4?style=for-the-badge" />
 </a>
 
