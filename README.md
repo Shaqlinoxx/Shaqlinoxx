@@ -33,11 +33,9 @@
 
 </p>
 
+
+
 ---
-
-## 📚 Currently Learning
-
-🌐 CCNA & Advanced Networking  
 
 ## 🌐 Connect With Me
 
